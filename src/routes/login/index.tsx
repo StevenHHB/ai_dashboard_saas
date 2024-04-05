@@ -8,7 +8,7 @@ export const LoginPage = () => {
       type="login"
       registerLink={false}
       forgotPasswordLink={false}
-      title={<ThemedTitleV2 collapsed={false} text="Refine Project" />}
+      title={<ThemedTitleV2 collapsed={false} text="AI Genius Bet" />}
       formProps={{
         initialValues: authCredentials,
       }}
